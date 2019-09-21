@@ -1,4 +1,4 @@
-/* This program was created by Hunter Vedder and Modified by _________
+/* This program was created by Hunter Vedder and Modified by Mathew Pagan
  * Starting on 9/19/19
  * Ending on 9/20/19
  * For the purpose of testing our abbility to use GitHub
@@ -8,5 +8,5 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-    printf("Hello Hunter.\n");
+    printf("Hello Hunter and Mathew.\n");
 }
